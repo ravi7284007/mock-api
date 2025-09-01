@@ -1,0 +1,424 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "ravi@gmail.com",
+      "password": "123456",
+      "name": "Ravi"
+    },
+    {
+      "id": "2",
+      "email": "test@gmail.com",
+      "password": "123456",
+      "name": "Anonymouse"
+    }
+  ],
+  "watchlist": [
+    {
+      "id": "0e7a",
+      "userId": 1,
+      "movieId": 663,
+      "movie": {
+        "id": 663,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/ku1QdCXOU4ckz3zxLLlis8MIJVm.jpg",
+        "title": "Saw IV",
+        "genre": "N/A",
+        "description": "Despite Jigsaw's death, and in order to save the lives of two of his colleagues, Lieutenant Rigg is forced to take part in a new game, which promises to test him to the limit.",
+        "cast": "",
+        "releaseDate": "2007-10-25",
+        "rating": 6.16
+      }
+    },
+    {
+      "id": "44ea",
+      "userId": 1,
+      "movieId": 9611,
+      "movie": {
+        "id": 9611,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/dpX4AFvoCNr5dmqyTfJrOvSb8M4.jpg",
+        "title": "Romy and Michele's High School Reunion",
+        "genre": "N/A",
+        "description": "Two not-too-bright party girls reinvent themselves for their high school reunion. Armed with a borrowed Jaguar, new clothes and the story of their success as the inventors of Post-It notes, Romy and Michele descend on their alma mater, but their façade crumbles quickly.",
+        "cast": "",
+        "releaseDate": "1997-04-25",
+        "rating": 6.213
+      }
+    },
+    {
+      "id": "7d3a",
+      "userId": 1,
+      "movieId": 1064758,
+      "movie": {
+        "id": 1064758,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/zCi5WZbYeFkM1KsOcbSv2qd37Bf.jpg",
+        "title": "Planet B",
+        "genre": "N/A",
+        "description": "France, 2039. One night, a group of activists who are being pursued by the State vanish without a trace. Julia Bombarth is one of them. When she awakens, she finds herself trapped in an entirely unfamiliar world: PLANET B.",
+        "cast": "",
+        "releaseDate": "2024-12-25",
+        "rating": 5.042
+      }
+    },
+    {
+      "id": "fb9f",
+      "userId": "1",
+      "movieId": 523638,
+      "movie": {
+        "id": 523638,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/j5HRzcvN1QXZLvwfc3NLxX8XQJY.jpg",
+        "title": "Prisoners of the Ghostland",
+        "genre": "N/A",
+        "description": "In the treacherous frontier city of Samurai Town, a ruthless bank robber is sprung from jail by wealthy warlord The Governor, whose adopted granddaughter Bernice has gone missing. The Governor offers the prisoner his freedom in exchange for retrieving the runaway. Strapped into a leather suit that will self-destruct within five days, the bandit sets off on a journey to find the young woman—and his own path to redemption.",
+        "cast": "",
+        "releaseDate": "2021-08-31",
+        "rating": 5.004
+      }
+    },
+    {
+      "id": "026e",
+      "userId": "2",
+      "movieId": 116776,
+      "movie": {
+        "id": 116776,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/4uPs9rjKkGWOmc5QO4VV08YdLpV.jpg",
+        "title": "Dragon Ball: Mystical Adventure",
+        "genre": "N/A",
+        "description": "Master Roshi has succeeded at the one mission he valued most: to train Goku and Krillin to become ultimate fighters. So, he arranges for them to test their mettle at a competition hosted by Emperor Chiaotzu. Not everyone's playing by the rules, however, as a member of the ruler's household schemes to use the Dragonballs to extort money and power from the royal.",
+        "cast": "",
+        "releaseDate": "1988-07-09",
+        "rating": 6.717
+      }
+    },
+    {
+      "id": "8f02",
+      "userId": "2",
+      "movieId": 609681,
+      "movie": {
+        "id": 609681,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+        "title": "The Marvels",
+        "genre": "N/A",
+        "description": "When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+        "cast": "",
+        "releaseDate": "2023-11-08",
+        "rating": 6
+      }
+    },
+    {
+      "id": "2d30",
+      "userId": "2",
+      "movieId": 36218,
+      "movie": {
+        "id": 36218,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/jbH0tIEymhyd6uk4xV4vrS6qybV.jpg",
+        "title": "Pokémon: Jirachi - Wish Maker",
+        "genre": "N/A",
+        "description": "Ash, May, Brock, and Max come upon the festival of the Wishing Star of Seven Nights. During their enjoyment, the legendary Pokemon--Jirachi, descends from the heavens and befriends Max. Jirachi, with the power to grant any wish, is sought after by many people wanting to claim its power. One man seeks to use its legendary power to revive an ancient Pokemon known as Groudon, unaware of the dangers hidden within Jirachi's powers",
+        "cast": "",
+        "releaseDate": "2003-07-19",
+        "rating": 6.6
+      }
+    },
+    {
+      "id": "6fc6",
+      "userId": "2",
+      "movieId": 105864,
+      "movie": {
+        "id": 105864,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg",
+        "title": "The Good Dinosaur",
+        "genre": "N/A",
+        "description": "An epic journey into the world of dinosaurs where an Apatosaurus named Arlo makes an unlikely human friend.",
+        "cast": "",
+        "releaseDate": "2015-11-14",
+        "rating": 6.734
+      }
+    },
+    {
+      "id": "68ad",
+      "userId": "2",
+      "movieId": 4435,
+      "movie": {
+        "id": 4435,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/ckFDMqLjhsYo2kH3X5auV1NnjPM.jpg",
+        "title": "Aśoka",
+        "genre": "N/A",
+        "description": "A young Prince Asoka works to perfect his skills in battle and also deals with family conflict. During a struggle with one of his step-brothers, his mother urges Asoka to escape to stay alive. While away, Asoka meets Kaurwaki and falls in love, but must use his skills as a warrior to protect her. A dangerous and heartbreaking web of conspiracy follows, which leads Asoka to embrace a Buddhist path.",
+        "cast": "",
+        "releaseDate": "2001-09-13",
+        "rating": 6.5
+      }
+    },
+    {
+      "id": "9317",
+      "userId": "2",
+      "movieId": 44896,
+      "movie": {
+        "id": 44896,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+        "title": "Rango",
+        "genre": "N/A",
+        "description": "When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging town of Dirt, the less-than-courageous lizard suddenly finds he stands out. Welcomed as the last hope the town has been waiting for, new Sheriff Rango is forced to play his new role to the hilt.",
+        "cast": "",
+        "releaseDate": "2011-03-02",
+        "rating": 6.872
+      }
+    },
+    {
+      "id": "f99b",
+      "userId": "2",
+      "movieId": 1257394,
+      "movie": {
+        "id": 1257394,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/lDKx2eEinTYw1kNTHJLYtfIgOFV.jpg",
+        "title": "The Cliche",
+        "genre": "N/A",
+        "description": "A man down on his luck is forced to take a role in a TV drama he doesn't like. Unexpectedly, he finds his real life and the Soap opera overlapping.",
+        "cast": "",
+        "releaseDate": "2024-12-26",
+        "rating": 5
+      }
+    },
+    {
+      "id": "c593",
+      "userId": "2",
+      "movieId": 34433,
+      "movie": {
+        "id": 34433,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/6iO8TJCyLI4BiPYOvdwzPV2bhoV.jpg",
+        "title": "Dragon Ball Z: Broly - The Legendary Super Saiyan",
+        "genre": "N/A",
+        "description": "While the Saiyan Paragus persuades Vegeta to rule a new planet, King Kai alerts Goku of the South Galaxy's destruction by an unknown Super Saiyan.",
+        "cast": "",
+        "releaseDate": "1993-03-06",
+        "rating": 7.206
+      }
+    },
+    {
+      "id": "9b4a",
+      "userId": "2",
+      "movieId": 212778,
+      "movie": {
+        "id": 212778,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/hyp8EXDmO4dSC8V6Q5jU7gD1kcg.jpg",
+        "title": "Chef",
+        "genre": "N/A",
+        "description": "When Chef Carl Casper suddenly quits his job at a prominent Los Angeles restaurant after refusing to compromise his creative integrity for its controlling owner, he is left to figure out what's next. Finding himself in Miami, he teams up with his ex-wife, his friend and his son to launch a food truck. Taking to the road, Chef Carl goes back to his roots to reignite his passion for the kitchen -- and zest for life and love.",
+        "cast": "",
+        "releaseDate": "2014-05-08",
+        "rating": 7.112
+      }
+    },
+    {
+      "id": "0b91",
+      "userId": "2",
+      "movieId": 1026202,
+      "movie": {
+        "id": 1026202,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/wj6cbxh1e8h21R3FOPil19lnIkv.jpg",
+        "title": "Giantess Battle Attack!",
+        "genre": "N/A",
+        "description": "The beautiful, beastly Beverly returns and faces a new gaggle of gargantuan gals, hell bent on achieving deluxe diva domination. Get ready for the cinematic smackdown thrills of Giantess Battle Attack. Size really does matter.",
+        "cast": "",
+        "releaseDate": "2022-10-20",
+        "rating": 6.5
+      }
+    },
+    {
+      "id": "7835",
+      "userId": "1",
+      "movieId": 13475,
+      "movie": {
+        "id": 13475,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/lV5OpzAss1z06YNagOVap1I35mH.jpg",
+        "title": "Star Trek",
+        "genre": "N/A",
+        "description": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+        "cast": "",
+        "releaseDate": "2009-05-06",
+        "rating": 7.426
+      }
+    },
+    {
+      "id": "5935",
+      "userId": "2",
+      "movieId": 341013,
+      "movie": {
+        "id": 341013,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/vCmMRNbDlCno6ra91ruXp5rtsUC.jpg",
+        "title": "Atomic Blonde",
+        "genre": "N/A",
+        "description": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+        "cast": "",
+        "releaseDate": "2017-07-26",
+        "rating": 6.428
+      }
+    }
+  ],
+  "reviews": [],
+  "bookedMovies": [
+    {
+      "id": "ca06",
+      "userId": "2",
+      "movieId": 2046,
+      "moviePrice": 468,
+      "quantity": 1,
+      "movie": {
+        "id": 2046,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/c9mrttn6IpvO5dymlxqCDKklMYd.jpg",
+        "title": "The Gift",
+        "genre": "N/A",
+        "description": "Annie Wilson, young widow and mother of three, makes her living foretelling others' futures⁠—though her own has become cloudier than even she can see. Threatened by a client's violent husband and plagued by visions of a missing local woman, Annie finds herself pulled into a thicket of lies and deception in which her extraordinary gift may ultimately get her killed.",
+        "cast": "",
+        "releaseDate": "2000-03-16",
+        "rating": 6.461
+      }
+    },
+    {
+      "id": "ad7f",
+      "userId": "2",
+      "movieId": 1026202,
+      "moviePrice": 429,
+      "quantity": 1,
+      "movie": {
+        "id": 1026202,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/wj6cbxh1e8h21R3FOPil19lnIkv.jpg",
+        "title": "Giantess Battle Attack!",
+        "genre": "N/A",
+        "description": "The beautiful, beastly Beverly returns and faces a new gaggle of gargantuan gals, hell bent on achieving deluxe diva domination. Get ready for the cinematic smackdown thrills of Giantess Battle Attack. Size really does matter.",
+        "cast": "",
+        "releaseDate": "2022-10-20",
+        "rating": 6.5
+      }
+    },
+    {
+      "id": "6ce4",
+      "userId": "2",
+      "movieId": 1221396,
+      "moviePrice": 455,
+      "quantity": 1,
+      "movie": {
+        "id": 1221396,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/jrbBVDmC4lTquL5NvNbom9RAzbx.jpg",
+        "title": "Self",
+        "genre": "N/A",
+        "description": "A wooden puppet who desperately wants to fit in makes an ill-fated wish upon a star, sparking a journey of self-discovery.",
+        "cast": "",
+        "releaseDate": "2024-02-01",
+        "rating": 6.1
+      }
+    },
+    {
+      "id": "e532",
+      "userId": "2",
+      "movieId": 341013,
+      "moviePrice": 586,
+      "quantity": 1,
+      "movie": {
+        "id": 341013,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/vCmMRNbDlCno6ra91ruXp5rtsUC.jpg",
+        "title": "Atomic Blonde",
+        "genre": "N/A",
+        "description": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+        "cast": "",
+        "releaseDate": "2017-07-26",
+        "rating": 6.428
+      }
+    }
+  ],
+  "movieHistory": [
+    {
+      "id": "ac7b",
+      "userId": "1",
+      "movieId": 1064758,
+      "quantity": 1,
+      "moviePrice": 713,
+      "movie": {
+        "id": 1064758,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/zCi5WZbYeFkM1KsOcbSv2qd37Bf.jpg",
+        "title": "Planet B",
+        "genre": "N/A",
+        "description": "France, 2039. One night, a group of activists who are being pursued by the State vanish without a trace. Julia Bombarth is one of them. When she awakens, she finds herself trapped in an entirely unfamiliar world: PLANET B.",
+        "cast": "",
+        "releaseDate": "2024-12-25",
+        "rating": 5.042
+      },
+      "status": "Deleted",
+      "timestamp": "2025-05-07T16:13:02.954Z"
+    },
+    {
+      "id": "8587",
+      "userId": "1",
+      "movieId": 10191,
+      "moviePrice": 597,
+      "quantity": 1,
+      "movie": {
+        "id": 10191,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+        "title": "How to Train Your Dragon",
+        "genre": "N/A",
+        "description": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
+        "cast": "",
+        "releaseDate": "2010-03-18",
+        "rating": 7.838
+      },
+      "status": "Booked",
+      "timestamp": "2025-05-08T09:44:19.753Z"
+    },
+    {
+      "id": "aab2",
+      "userId": "1",
+      "movieId": 10191,
+      "quantity": 3,
+      "moviePrice": 597,
+      "movie": {
+        "id": 10191,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+        "title": "How to Train Your Dragon",
+        "genre": "N/A",
+        "description": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
+        "cast": "",
+        "releaseDate": "2010-03-18",
+        "rating": 7.838
+      },
+      "status": "Deleted",
+      "timestamp": "2025-05-08T09:44:31.221Z"
+    },
+    {
+      "id": "cab6",
+      "userId": "2",
+      "movieId": 1221396,
+      "moviePrice": 455,
+      "quantity": 1,
+      "movie": {
+        "id": 1221396,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/jrbBVDmC4lTquL5NvNbom9RAzbx.jpg",
+        "title": "Self",
+        "genre": "N/A",
+        "description": "A wooden puppet who desperately wants to fit in makes an ill-fated wish upon a star, sparking a journey of self-discovery.",
+        "cast": "",
+        "releaseDate": "2024-02-01",
+        "rating": 6.1
+      },
+      "status": "Booked",
+      "timestamp": "2025-05-08T10:04:05.776Z"
+    },
+    {
+      "id": "9896",
+      "userId": "2",
+      "movieId": 341013,
+      "movie": {
+        "id": 341013,
+        "poster": "https://image.tmdb.org/t/p/w220_and_h330_face/vCmMRNbDlCno6ra91ruXp5rtsUC.jpg",
+        "title": "Atomic Blonde",
+        "genre": "N/A",
+        "description": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+        "cast": "",
+        "releaseDate": "2017-07-26",
+        "rating": 6.428
+      },
+      "status": "Add to watchlist",
+      "timestamp": "2025-05-08T10:04:16.360Z"
+    }
+  ]
+}
